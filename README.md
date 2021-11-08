@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Github newbies
+- 👋 Hi, I’m a Github newbie
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning git & github
 - 💞️ I’m looking to learn from others
